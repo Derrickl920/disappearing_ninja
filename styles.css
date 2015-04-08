@@ -1,0 +1,25 @@
+img{
+	width: 250px;
+	height: 250px;
+	display: block;
+}
+
+.col1,.col2,.col3,.col4{
+	display: inline-block;
+	vertical-align: top;
+	width: 250px;
+	height: 500px;
+}
+
+.a,.b,.c,.d{
+	width: 250px;
+	height: 250px;
+}
+
+button{
+	display: block;
+	width:150px;
+	height: 75px;
+	background-color: lightgreen;
+	box-shadow: 3px 3px 3px 3px;
+}
